@@ -1,3 +1,0 @@
-git add .
-git commit -m "initializing"
-git push origin
