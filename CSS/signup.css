@@ -1,0 +1,29 @@
+form{
+    display: grid;
+    width: 38%;
+    margin: auto;
+    margin-top: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+form>p{
+    text-align: center;
+    font-size: 40px;
+}
+form>input[type="text"],input[type="password"]{
+    margin: auto;
+    width: 85%;
+    padding: 2%;
+    margin-top: 20px;;
+}
+input[type="submit"]{
+    margin: auto;
+    margin-top: 20px;
+    padding: 3%;
+    width:50%;
+    background-color: rgb(57, 95, 41);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+
+}
