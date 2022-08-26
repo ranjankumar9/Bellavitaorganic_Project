@@ -99,7 +99,11 @@ h4>button{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
+<<<<<<< HEAD
 	width:80%;
+=======
+	width:70%;
+>>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
 	height: 50px;
 	margin: auto;
 	margin-top: 20px;
@@ -119,17 +123,27 @@ h4>button{
 .icons:nth-child(1){
 	display: none;
 }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
 /* navbar 2 */
 #navbar2{
 	display: flex;
 	justify-content: space-between;
+<<<<<<< HEAD
 	width: 80%;
 	margin: auto;
 	margin-top: 30px;
 	font-size: 15px;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+=======
+	width: 65%;
+	margin: auto;
+	margin-top: 30px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+>>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
 	color:rgb(118, 132, 118);
 	cursor: pointer;
 }
@@ -163,6 +177,7 @@ h4>button{
 	display: block;
 	
 }
+<<<<<<< HEAD
 #burgers{
 	cursor: pointer;
 }
@@ -193,6 +208,10 @@ h4>button{
 /* BURGER CSS */
 
 
+=======
+/* BURGER CSS */
+
+>>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
 @media only screen and (max-width:800px){
 	@-webkit-keyframes slide-animation {
 		10% {left:-400px; opacity:1;}

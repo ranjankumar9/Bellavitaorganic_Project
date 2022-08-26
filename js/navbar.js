@@ -35,10 +35,14 @@ let navbar_HTML = `<!DOCTYPE html>
 
       <div id="navbar1">
         <div class="icons">
+<<<<<<< HEAD
         <img id="burger"
         src="https://icon-library.com/images/hamburger-menu-icon-transparent/hamburger-menu-icon-transparent-20.jpg"
         width="60"
     />
+=======
+          <i class="fa fa-bars" id="burger" aria-hidden="true"></i>
+>>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
         </div>
         <div class="icons">
           <a href="./login.html"><i class="far fa-address-book"></i></a>
@@ -62,12 +66,17 @@ let navbar_HTML = `<!DOCTYPE html>
           <input type="text" placeholder="Search for products" />
 
           <a href="./login.html"><i class="far fa-heart"></i></a>
+<<<<<<< HEAD
           <img id="burgers"
+=======
+          <img
+>>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
             src="https://cdn.iconscout.com/icon/free/png-256/shopping-bag-1970453-1669843.png"
             width="30"
           />
         </div>
       </div>
+<<<<<<< HEAD
       <div id="sliders">
         <img id="close" src="https://masai-course.s3.ap-south-1.amazonaws.com/editor/uploads/2022-07-20/x_987206.webp" width="40">
         <div id="popup">
@@ -77,6 +86,8 @@ let navbar_HTML = `<!DOCTYPE html>
       <div class="bg"></div>
 
   
+=======
+>>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
 
       <!-- navigation bar -->
 
@@ -97,6 +108,7 @@ let navbar_HTML = `<!DOCTYPE html>
                 <a href="">FACE CREAM</a>
                 <a href="">FACE PACK/MASK</a>
                 <a href="">FACE SCRUM</a>
+<<<<<<< HEAD
                 <a href="">FACE SCRUB</a>
                 <a href="">FACE TONER</a>
                 <a href="">FACE GEL</a>
@@ -108,6 +120,8 @@ let navbar_HTML = `<!DOCTYPE html>
                 <a href="">EYE BROWS</a>
                 <a href="">EXFOLIATORS</a>
                 <a href="">FACE WASH</a>
+=======
+>>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
               </div>
               <div>
                 <p>BY CONCERN</p>
@@ -117,6 +131,7 @@ let navbar_HTML = `<!DOCTYPE html>
                 <a href="">AGEING</a>
                 <a href="">DARK SPOTS</a>
                 <a href="">DARK CIRCLES</a>
+<<<<<<< HEAD
                 <a href="">BLACKHEADS & WHITE</a>
                 <a href="">HEADS</a>
                 <a href="">TAN REMOVAL</a>
@@ -126,6 +141,8 @@ let navbar_HTML = `<!DOCTYPE html>
                 <a href="">SUN PROTECT</a>
                 <a href="">OIL CONTROL</a>
                 <a href="">PUFFINESS</a>
+=======
+>>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
               </div>
               <div>
                 <p>BY SKIN TYPE</p>
@@ -213,7 +230,14 @@ let navbar_HTML = `<!DOCTYPE html>
     </div>
   </body>
 </html>
+<<<<<<< HEAD
 `;
 
 let navbar = document.querySelector("nav");
 navbar.innerHTML = navbar_HTML;
+=======
+`
+
+let navbar = document.querySelector("nav");
+navbar.innerHTML=navbar_HTML;
+>>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
