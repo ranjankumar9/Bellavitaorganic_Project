@@ -1,0 +1,39 @@
+form>p:nth-child(1){
+    text-align: center;
+    font-size: 30px;
+    
+}
+form a{
+    color: rgb(118, 116, 116);
+    padding-top: 10px;
+}
+form{
+
+    display: grid;
+    width: 30%;
+    margin: auto;
+    margin-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+form>input[type="text"],input[type="password"]{
+    width:100%;
+    padding:3%;
+    margin-top: 20px;
+}
+form a:nth-child(6){
+    text-align: center;
+}
+input[type="submit"]{
+    background-color: rgb(55, 94, 55);
+    color:rgb(173, 171, 171);
+    margin: auto;
+    margin-top: 30px;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    width: 200px;
+    border:none;
+    border-radius: 10px;
+}
+
+
