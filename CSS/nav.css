@@ -99,9 +99,13 @@ h4>button{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
+<<<<<<< HEAD
 	
 	background-color: white;
 	width:80%;
+=======
+	width:70%;
+>>>>>>> main
 	height: 50px;
 	margin: auto;
 	margin-top: 20px;
@@ -121,12 +125,16 @@ h4>button{
 .icons:nth-child(1){
 	display: none;
 }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> main
 /* navbar 2 */
 #navbar2{
 	display: flex;
 	justify-content: space-between;
+<<<<<<< HEAD
 	width: 80%;
 	margin: auto;
 	margin-top: 30px;
@@ -134,6 +142,12 @@ h4>button{
 	background-color: white;
 	font-size: 15px;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+=======
+	width: 65%;
+	margin: auto;
+	margin-top: 30px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+>>>>>>> main
 	color:rgb(118, 132, 118);
 	cursor: pointer;
 }
@@ -167,11 +181,15 @@ h4>button{
 	display: block;
 	
 }
+<<<<<<< HEAD
 #burgers{
 	cursor: pointer;
 }
 
 
+=======
+/* BURGER CSS */
+>>>>>>> main
 
 @media only screen and (max-width:800px){
 	@-webkit-keyframes slide-animation {
