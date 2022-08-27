@@ -100,12 +100,19 @@ h4>button{
 	align-items: center;
 	justify-content: space-between;
 <<<<<<< HEAD
+<<<<<<< HEAD
 	
 	background-color: white;
 	width:80%;
 =======
 	width:70%;
 >>>>>>> main
+=======
+	width:80%;
+=======
+	width:70%;
+>>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
+>>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
 	height: 50px;
 	margin: auto;
 	margin-top: 20px;
@@ -129,7 +136,11 @@ h4>button{
 
 
 =======
+<<<<<<< HEAD
 >>>>>>> main
+=======
+>>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
+>>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
 /* navbar 2 */
 #navbar2{
 	display: flex;
@@ -138,8 +149,11 @@ h4>button{
 	width: 80%;
 	margin: auto;
 	margin-top: 30px;
+<<<<<<< HEAD
 	
 	background-color: white;
+=======
+>>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
 	font-size: 15px;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 =======
@@ -147,7 +161,11 @@ h4>button{
 	margin: auto;
 	margin-top: 30px;
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+<<<<<<< HEAD
 >>>>>>> main
+=======
+>>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
+>>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
 	color:rgb(118, 132, 118);
 	cursor: pointer;
 }
@@ -185,12 +203,44 @@ h4>button{
 #burgers{
 	cursor: pointer;
 }
+<<<<<<< HEAD
+
+
+=======
+=======
+#sliders{
+	height: 100vh;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	background-color: white;
+	width: 100%;
+	max-width: 500px;
+	position: fixed;
+	z-index: 1000;
+	top:0;
+	right:0;
+	display: none;
+   
+}
+#close{
+	
+	border-radius: 10px;
+}
+#popup{
+	padding: 60px;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+}
+>>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
+/* BURGER CSS */
+>>>>>>> main
 
 
 =======
 /* BURGER CSS */
->>>>>>> main
 
+>>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
 @media only screen and (max-width:800px){
 	@-webkit-keyframes slide-animation {
 		10% {left:-400px; opacity:1;}

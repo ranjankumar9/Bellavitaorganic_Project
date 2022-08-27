@@ -48,7 +48,11 @@
     display: grid;
     grid-template-columns: repeat(4,1fr);
     gap:20px;
+<<<<<<< HEAD
     width:82%;
+=======
+    width:85%;
+>>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
     margin: auto;
     margin-top: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -85,6 +89,7 @@
   button:hover{
     background-color: green;
   }
+<<<<<<< HEAD
 
 
   /* pagination */
@@ -185,3 +190,5 @@
 
 
 }
+=======
+>>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
