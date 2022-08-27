@@ -42,7 +42,11 @@ let navbar_HTML = `<!DOCTYPE html>
     />
 =======
           <i class="fa fa-bars" id="burger" aria-hidden="true"></i>
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
+>>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
         </div>
         <div class="icons">
           <a href="./login.html"><i class="far fa-address-book"></i></a>
@@ -63,6 +67,21 @@ let navbar_HTML = `<!DOCTYPE html>
           />
         </div>
         <div class="icons">
+<<<<<<< HEAD
+          <input type="text" placeholder="Search for products" id="search"/>
+
+          <a href="./login.html"><i class="far fa-heart"></i></a>
+          <a href="cart.html"><img id="burgers"
+            src="https://cdn.iconscout.com/icon/free/png-256/shopping-bag-1970453-1669843.png"
+            width="30"
+          /></a>
+        </div>
+      </div>
+
+
+  
+
+=======
           <input type="text" placeholder="Search for products" />
 
           <a href="./login.html"><i class="far fa-heart"></i></a>
@@ -89,6 +108,7 @@ let navbar_HTML = `<!DOCTYPE html>
 =======
 >>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
 
+>>>>>>> main
       <!-- navigation bar -->
 
       <div id="navbar2">
@@ -121,7 +141,11 @@ let navbar_HTML = `<!DOCTYPE html>
                 <a href="">EXFOLIATORS</a>
                 <a href="">FACE WASH</a>
 =======
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
+>>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
               </div>
               <div>
                 <p>BY CONCERN</p>
@@ -142,7 +166,11 @@ let navbar_HTML = `<!DOCTYPE html>
                 <a href="">OIL CONTROL</a>
                 <a href="">PUFFINESS</a>
 =======
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
+>>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
               </div>
               <div>
                 <p>BY SKIN TYPE</p>
@@ -240,4 +268,8 @@ navbar.innerHTML = navbar_HTML;
 
 let navbar = document.querySelector("nav");
 navbar.innerHTML=navbar_HTML;
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
+>>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
