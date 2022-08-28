@@ -1,0 +1,90 @@
+#productpage{
+    width:80%;
+    margin:auto;
+    margin-top: 20px;
+}
+#productpage>img{
+    border-radius: 10px;
+    border: 1px solid rgb(192, 193, 194);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#search{
+    width:80%;
+    padding: 1%;
+    margin-left: 10%;
+    margin-top: 40px;
+    font-size: 20px;
+    /* border-radius: 10px; */
+    
+}
+#search:focus{
+    outline: none;
+}
+#shopping{
+    display: flex;
+    justify-content: space-around;
+    gap:40px;
+    width: 95%;
+    margin:auto;
+    margin-top: 50px;
+    padding: 10px;
+}
+#shop1{
+    padding: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+}
+#shop1>div>p:nth-child(1){
+    font-size: 25px;
+    padding: 20px;
+}
+#shop1>div{
+    display: grid;
+
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#shop1>div>p{
+    margin-top: 20px;
+}
+#shop1>div>select{
+    font-size: 20px;
+    border: none;
+    margin-top: 20px;
+    width:100%;
+    padding: 5%;
+}
+#shop1>div>select:focus{
+    outline: none;
+}
+#shop2{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#shop2>div{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    border-radius: 5px;
+    
+}
+#shop2>div>p{
+    margin: 20px;
+}
+
+#shop2>div>img{
+    width:100%;
+    border-radius: 5px;
+}
+#shop2>div>button{
+    width:100%;
+    padding: 15px;
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(55, 83, 55);
+}

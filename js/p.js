@@ -94,6 +94,9 @@ let productID =   [
       price: "399.00",
       catagory: "Exfoliate Face & Body Scrub, Coffee Cubes",
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> main
       img: "https://cdn.shopify.com/s/files/1/0054/6665/2718/products/Exfoliate_BevzillaCombo-01Medium_765x.jpg?v=1659101713",
     },
    
@@ -173,6 +176,8 @@ let productID =   [
        window.location.href = "./cart.html";
   
      });
+<<<<<<< HEAD
+=======
 
 =======
       img: "https://cdn.shopify.com/s/files/1/0054/6665/2718/products/Vitamin-CCombo-01_50x.jpg?v=1659710908",
@@ -180,3 +185,4 @@ let productID =   [
    
   ];
 >>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
+>>>>>>> main

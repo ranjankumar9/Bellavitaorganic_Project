@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> main
 let add = document.getElementById("add");
 let cartLoc = JSON.parse(localStorage.getItem("cart-page")) || [];
 
@@ -7,6 +10,8 @@ let cartLoc = JSON.parse(localStorage.getItem("cart-page")) || [];
    add.innerHTML=null;
   
     data.forEach(function (el,index) {
+<<<<<<< HEAD
+=======
 =======
 let popup = document.getElementById("popup");
 let cartLs = JSON.parse(localStorage.getItem("cart-page")) || [];
@@ -17,6 +22,7 @@ function renderDOM(data){
   
     data.forEach(function (el) {
 >>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
+>>>>>>> main
       let product = document.createElement("div");
   
       let img = document.createElement("img");
@@ -31,6 +37,9 @@ function renderDOM(data){
       let catagory = document.createElement("p");
       catagory.innerText = el.catagory;
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> main
 
       let checkout = document.createElement("button");
       checkout.innerText = "CHECKOUT";
@@ -56,6 +65,9 @@ function renderDOM(data){
      })
      display(deletedCart);
      localStorage.setItem("cart-page",JSON.stringify(deletedCart));
+<<<<<<< HEAD
+   }
+=======
    }
 =======
   
@@ -65,3 +77,4 @@ function renderDOM(data){
   }
    renderDOM(cartLs)
 >>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
+>>>>>>> main
