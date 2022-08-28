@@ -1,0 +1,33 @@
+
+form {
+  display: flex;
+  gap: 10px;
+  width: 70%;
+  margin: auto;
+  margin-top: 50px;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 30px;
+}
+form > div {
+  margin: auto;
+}
+input,
+select {
+  width: 100%;
+  padding: 3%;
+}
+input[type="submit"] {
+  cursor: pointer;
+  margin-top: 20px;
+  padding: 9px 20px;
+  background-color: rgb(19, 213, 164);
+  border: none;
+  color: white;
+  border-radius: 20px;
+}
+form > div > p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
