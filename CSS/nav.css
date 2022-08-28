@@ -99,9 +99,26 @@ h4>button{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
+<<<<<<< HEAD
 	
 	background-color: white;
 	width:80%;
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+	
+	background-color: white;
+	width:80%;
+=======
+	width:70%;
+>>>>>>> main
+=======
+	width:80%;
+=======
+	width:70%;
+>>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
+>>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
+>>>>>>> main
 	height: 50px;
 	margin: auto;
 	margin-top: 20px;
@@ -112,7 +129,10 @@ h4>button{
 	
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
 .icons>input{
 	padding:10px 50px;
 	border: 0.1px solid black;
@@ -122,18 +142,54 @@ h4>button{
 .icons:nth-child(1){
 	display: none;
 }
+<<<<<<< HEAD
 
 
+=======
+<<<<<<< HEAD
+
+
+=======
+<<<<<<< HEAD
+>>>>>>> main
+=======
+>>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
+>>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
+>>>>>>> main
 /* navbar 2 */
 #navbar2{
 	display: flex;
 	justify-content: space-between;
+<<<<<<< HEAD
 	width: 80%;
 	margin: auto;
 	margin-top: 30px;
 	background-color: white;
 	font-size: 15px;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+=======
+<<<<<<< HEAD
+	width: 80%;
+	margin: auto;
+	margin-top: 30px;
+<<<<<<< HEAD
+	
+	background-color: white;
+=======
+>>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
+	font-size: 15px;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+=======
+	width: 65%;
+	margin: auto;
+	margin-top: 30px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+<<<<<<< HEAD
+>>>>>>> main
+=======
+>>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
+>>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
+>>>>>>> main
 	color:rgb(118, 132, 118);
 	cursor: pointer;
 }
@@ -143,10 +199,13 @@ h4>button{
     border-bottom-color: #CCC;
     border-bottom-width: 1.5px;
 }
+<<<<<<< HEAD
 #navbar2>a{
 	text-decoration: none;
 	color:rgb(118, 132, 118);
 }
+=======
+>>>>>>> main
 .submenu{
 	display:none;
 	position:absolute;
@@ -171,12 +230,57 @@ h4>button{
 	display: block;
 	
 }
+<<<<<<< HEAD
 #burgers{
 	cursor: pointer;
 }
 
 
 
+=======
+<<<<<<< HEAD
+#burgers{
+	cursor: pointer;
+}
+<<<<<<< HEAD
+
+
+=======
+=======
+#sliders{
+	height: 100vh;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	background-color: white;
+	width: 100%;
+	max-width: 500px;
+	position: fixed;
+	z-index: 1000;
+	top:0;
+	right:0;
+	display: none;
+   
+}
+#close{
+	
+	border-radius: 10px;
+}
+#popup{
+	padding: 60px;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+}
+>>>>>>> 2193873512099a6d9a9acd0c332f9d165a06c0a2
+/* BURGER CSS */
+>>>>>>> main
+
+
+=======
+/* BURGER CSS */
+
+>>>>>>> 87395530110d0f1130e9533c7e3c1bf4c6ce8471
+>>>>>>> main
 @media only screen and (max-width:800px){
 	@-webkit-keyframes slide-animation {
 		10% {left:-400px; opacity:1;}
