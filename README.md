@@ -1,6 +1,6 @@
 ![Logo](https://images.yourstory.com/cs/2/721b1c100eb911eb936a1114ea00a5c0/Untitleddesign59-1619361379554.png?w=752&fm=auto&ar=2:1&mode=crop&crop=faces)
 
-# LYST : Website_Clone
+# bellavitaorganic : Website_Clone
 
 Lyst is a fashion technology company, and premium shopping app.
 
