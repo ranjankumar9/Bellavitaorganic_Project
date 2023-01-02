@@ -27,7 +27,7 @@ Designed the clone with all features within the stipulated time. Used and applie
 
 ## Demo
 
-<!-- - Live Demo : https://stellar-concha-5c9a19.netlify.app/  -->
+<!-- - Deployed Link : https://stellar-concha-5c9a19.netlify.app/  -->
 
 ## Screenshots
 
