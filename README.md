@@ -12,34 +12,18 @@ Designed the clone with all features within the stipulated time. Used and applie
 
 ## Tech Stack
 
--    react
--    redux
+-    HTML
+-    CSS
 -    javascript
--    styled-components
--    reactjs
--    material-ui
--    redux-thunk
--    axios
--    netlify
--    react-redux
--    chakra-ui
+-    BootStrap
 
-#### Position :- Team Leader
-
-#### Duration : 1 Week
+#### Duration : 4 Days
 
 #### Area of Responsibility :
 
 -    Git Repository management | Implemented
 -    Homepage feature and Admin Dashboard Products Page | API & Database
 
-#### Rahul Sheelavantar Area of Responsibility
-
--    Implemented Authentication feature | Cart feature
-
-#### Ranjan Kumar Area of Responsibility
-
--    Implemented Checkout feature | Sales page | All mens page
 
 ## Demo
 
@@ -97,9 +81,9 @@ To deploy this project
 
 ## 🔗 Contact Me
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![portfolio](https://ranjankumar9.github.io/)]()
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![linkedin](https://www.linkedin.com/in/ranjan-kumar-a8590a237/)]()
 
 ## Contributions
 
@@ -113,8 +97,6 @@ Don't forget to give the project a star! Thanks again!
 
 ## Authors
 
--    [@Pushpendra Singh](https://github.com/erpushpendrasingh)
--    [@Rahul Sheelavantar](https://github.com/rahul2437)
 -    [@Ranjan Kumar](https://github.com/ranjankumar9)
 
 ## Acknowledgements
