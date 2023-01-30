@@ -19,16 +19,28 @@ BootStrap
 # Some Snippets of the Project
 
 # Home Page
-![Screenshot (14)](https://user-images.githubusercontent.com/112858493/213980224-5505b73b-668d-441a-a85b-a79157deac3e.png)
+![bellavita](https://user-images.githubusercontent.com/107936455/215546916-d95c134a-6fbc-4d1f-8170-8ce9e584062c.png)
 
-# Middle Section
-![Screenshot (15)](https://user-images.githubusercontent.com/112858493/213980228-7fabce3f-3265-493c-8af0-378a7f9be76c.png)
+# Sign in
+![signin](https://user-images.githubusercontent.com/107936455/215547165-b21d5bf3-dd78-4489-8c1b-114230f75145.png)
+
 
 # Login Section
-![Screenshot (16)](https://user-images.githubusercontent.com/112858493/213980231-210cb82c-33fc-4343-a4ce-42bfeb409446.png)
+![login](https://user-images.githubusercontent.com/107936455/215547043-dfed3a51-9185-4a52-b987-50ac7bfb2072.png)
 
-# Admin-Add Product Page
-![Screenshot (19)](https://user-images.githubusercontent.com/112858493/213980234-30168c09-9987-427d-9e81-934696233648.png)
+# Product Page
+![productpage](https://user-images.githubusercontent.com/107936455/215547389-a7ce275f-20e6-4b46-a1d7-09baf0d9628e.png)
 
-# Admin All Product
-![Screenshot (20)](https://user-images.githubusercontent.com/112858493/213980237-e13ecc71-d560-474c-8df4-249f42e822c8.png)
+# Cart Page
+![cart page](https://user-images.githubusercontent.com/107936455/215547539-9dd4bfa8-b025-4c93-929f-608384a516ca.png)
+
+# Checkout Page
+![checkout](https://user-images.githubusercontent.com/107936455/215547616-dd79507e-0d0e-4b1d-b963-b7dce73c6374.png)
+
+
+# Footer
+![Footer](https://user-images.githubusercontent.com/107936455/215547285-a34f494c-b9bd-46b1-bbd9-eb2cf6b42c69.png)
+
+
+
+
