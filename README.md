@@ -2,128 +2,39 @@
 
 # bellavitaorganic : Website_Clone
 
-Lyst is a fashion technology company, and premium shopping app.
+# HealthKart.com
 
-For over 160 million annual shoppers, we offer the most comprehensive range of products from 17,000 of the world’s leading brands and stores.
+Clone of HealthKart a shopping website for Medicine where you can find all latest arrivals in medicine, supplement, Vitamins and all kind of health accessory
 
-Website implements the functioning of an E-commerce Website that performs various functions like sign up, sign in, log out, add to cart, checkout, sort by sale, filter by category and much more.
+Deployed Link -> https://hunky-advertisement-4799.netlify.app/
 
-Designed the clone with all features within the stipulated time. Used and applied react redux javascript styled-components reactjs redux-thunk axios netlify react-redux chakra-ui as well as material-ui and Animation skills to create and test the clone. Worked with a 2-member research team for accomplishing the same.
+# Team Members
+1.Rahul Deb 
+2.Rohit Rajput
+3.Ranjan Kumar
 
-## Tech Stack
-
--    HTML
--    CSS
--    javascript
--    BootStrap
-
-#### Duration : 4 Days
-
-#### Area of Responsibility :
-
--    Git Repository management | Implemented
--    Homepage feature and Admin Dashboard Products Page | API & Database
+Tech stack used in the Project:
+React JS
+Chakra UI
+JavaScript
+CSS
+Axios
 
 
-## Demo
 
-<!-- - Deployed Link : https://stellar-concha-5c9a19.netlify.app/  -->
+# Some Snippets of the Project
 
-## Screenshots
+# Home Page
+![Screenshot (14)](https://user-images.githubusercontent.com/112858493/213980224-5505b73b-668d-441a-a85b-a79157deac3e.png)
 
--    **Home Page**
+# Middle Section
+![Screenshot (15)](https://user-images.githubusercontent.com/112858493/213980228-7fabce3f-3265-493c-8af0-378a7f9be76c.png)
 
-<img src="https://res.cloudinary.com/dtzoydf3b/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1671377749/Screenshot_8815_b12icn.jpg" alt="product page" />
+# Login Section
+![Screenshot (16)](https://user-images.githubusercontent.com/112858493/213980231-210cb82c-33fc-4343-a4ce-42bfeb409446.png)
 
-<img src="https://res.cloudinary.com/dtzoydf3b/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1671377749/Screenshot_8817_tdtxbw.jpg" alt="product page"/>
+# Admin-Add Product Page
+![Screenshot (19)](https://user-images.githubusercontent.com/112858493/213980234-30168c09-9987-427d-9e81-934696233648.png)
 
-## Installation
-
-Install the project with Vs Code
-
-```bash
- install vs code
-```
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/erpushpendrasingh/seemly-porter-7181.git
-```
-
-Open vs-code terminal
-
-```bash
-  Go inside project folder
-```
-
-Run project
-
-```bash
- npm start
-```
-
-Start server
-
-```bash
- npm run server
-```
-
-## Deployment
-
-To deploy this project
-
-```bash
-  deploy manually on netlify
-```
-
-## 🔗 Contact Me
-
-[![portfolio](https://ranjankumar9.github.io/)]()
-
-[![linkedin](https://www.linkedin.com/in/ranjan-kumar-a8590a237/)]()
-
-## Contributions
-
-Contributions are always welcome!
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **Greatly Appreciated**.
-
-If you have a suggestion that would make this better, Please fork the repo and create a pull request. You can also connect with us !
-
-Don't forget to give the project a star! Thanks again!
-
-## Authors
-
--    [@Ranjan Kumar](https://github.com/ranjankumar9)
-
-## Acknowledgements
-
--    [Masai School](https://www.masaischool.com/)
-
-<!-- Pushpendra Singh
-fp04_204
-erpushpendrasingh8900@gmail.com
-
-Ranjan Kumar
-fp05_020
-ranjankumar91234153@gmail.com
-
-Abhishek chandel
-fw14_330
-mybrosraiden@gmail.com
-
-Rahul Ohol
-fw19_0203
-nevergiveupyou123@gmail.com
-
-Rahul Sheelavantar
-fw19_0779
-rahulsheelavantar@gmail.com
-
-Vivek Goswami
-vivek.goswami@masaischool.com
-
-npm i --legec -->
+# Admin All Product
+![Screenshot (20)](https://user-images.githubusercontent.com/112858493/213980237-e13ecc71-d560-474c-8df4-249f42e822c8.png)
