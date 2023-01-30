@@ -2,9 +2,9 @@
 
 # bellavitaorganic : Website_Clone
 
-# HealthKart.com
+# bellavitaorganic.com
 
-Clone of HealthKart a shopping website for Medicine where you can find all latest arrivals in medicine, supplement, Vitamins and all kind of health accessory
+Bella Vita Organic is an all-natural, Ayurveda-based beauty brand that offers a bunch of products across the category of skincare, haircare, body care, perfumes and even makeup. So their range includes everything from face wash and scrubs to lip tints and kajal. Some of their products have been receiving quite a lot of attention from customers and
 
 Deployed Link -> https://bellavitaorganic1.netlify.app/index.html
 
