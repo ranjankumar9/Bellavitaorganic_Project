@@ -6,19 +6,13 @@
 
 Clone of HealthKart a shopping website for Medicine where you can find all latest arrivals in medicine, supplement, Vitamins and all kind of health accessory
 
-Deployed Link -> https://hunky-advertisement-4799.netlify.app/
+Deployed Link -> https://bellavitaorganic1.netlify.app/index.html
 
-# Team Members
-1.Rahul Deb 
-2.Rohit Rajput
-3.Ranjan Kumar
-
-Tech stack used in the Project:
-React JS
-Chakra UI
+# Tech stack used in the Project:
+HTML
 JavaScript
 CSS
-Axios
+BootStrap
 
 
 
