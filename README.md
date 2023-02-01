@@ -10,6 +10,14 @@ Bella Vita Organic is an all-natural, Ayurveda-based beauty brand that offers a 
 
 Deployed Link -> https://bellavitaorganic1.netlify.app/index.html
 
+# Tech stack :- 
+HTML
+CSS
+Javascript
+Bootstrap
+    
+    
+
 # Tech stack used in the Project:
 HTML
 JavaScript
